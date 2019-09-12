@@ -6,8 +6,11 @@
 <h3 align="center">The template README (and other files) for my GitHub repositories.</h3>
 
 <p align="center">
-    <a href="http://patreon.mattcowley.co.uk/" target="_blank">
-        <img src="https://img.shields.io/badge/patreon-DiscordBoats-blue.svg?style=flat-square" alt="Patreon"/>
+      <a href="https://patreon.com/discordboats" target="_blank">
+        <img src="https://img.shields.io/badge/patreon-DiscordBoats-blue.svg?logo=patreon&logoWidth=30&logoColor=F96854&style=popout-square" alt="Patreon"/>
+    </a>
+    <a href="https://paypal.me/roeelupo" target="_blank">
+        <img src="https://img.shields.io/badge/paypal-Roee%20Lupo-blue.svg?logo=paypal&logoWidth=30&logoColor=00457C&style=popout-square" alt="PayPal"/>
     </a>
 </p>
 
