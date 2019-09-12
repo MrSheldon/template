@@ -16,7 +16,7 @@
 
 ----
 
-## Hello
+## Information
 
 This repository stores my template README file along with other useful default & template files for my GitHub repositories.
 
